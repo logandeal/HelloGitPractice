@@ -7,4 +7,4 @@ Some basic exploring for GitHub.
 
 Making text **bold** 
 Making text *italic*
-[logandeal.com]
+[URL]logandeal.com
